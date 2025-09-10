@@ -1,0 +1,9 @@
+# 🎮 Guess the Word - Python Console Game
+
+A simple word guessing game written in Python.  
+The player has **10 attempts** to guess the hidden word by entering letters one by one.  
+
+The system randomly selects a word from a predefined word pool, and your goal is to guess it letter by letter.  
+At each step, the game gives you feedback on your progress.  
+
+✨ Have fun and good luck!
